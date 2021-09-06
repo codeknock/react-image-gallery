@@ -1,3 +1,6 @@
+
+# Photo gallery app using react and tailwind css , basic app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
